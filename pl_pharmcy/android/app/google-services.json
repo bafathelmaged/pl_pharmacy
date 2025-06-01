@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605678286689",
+    "project_id": "pharacyversiontow",
+    "storage_bucket": "pharacyversiontow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605678286689:android:3f7892d92caf6117147720",
+        "android_client_info": {
+          "package_name": "com.example.pharmacyversiontow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8sKjjKMYWIYZo_I_AcaC-64MfXLLQJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
